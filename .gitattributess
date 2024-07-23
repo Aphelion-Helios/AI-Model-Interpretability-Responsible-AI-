@@ -1,3 +1,1 @@
-# .gitattributes
-
-*.ipynb linguist-vendored
+*.ipynb -linguist-detectable
